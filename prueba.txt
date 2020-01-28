@@ -1,5 +1,5 @@
 hola...
 esta es mi primera practica usando Git.
 
-Integrantes:
+
 Kevin Dominguez
