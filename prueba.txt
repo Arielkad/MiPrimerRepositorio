@@ -1,5 +1,6 @@
 hola...
 esta es mi primera practica usando Git.
 
-
+integrantes:
 Kevin Dominguez
+Kevin Sotomayor
